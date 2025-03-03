@@ -1,0 +1,16 @@
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\bin\Debug\net8.0-windows\TP_MODS_03_103022300056.exe
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\bin\Debug\net8.0-windows\TP_MODS_03_103022300056.deps.json
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\bin\Debug\net8.0-windows\TP_MODS_03_103022300056.runtimeconfig.json
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\bin\Debug\net8.0-windows\TP_MODS_03_103022300056.dll
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\bin\Debug\net8.0-windows\TP_MODS_03_103022300056.pdb
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.Form1.resources
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.csproj.GenerateResource.cache
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.AssemblyInfoInputs.cache
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.AssemblyInfo.cs
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.csproj.CoreCompileInputs.cache
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.dll
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\refint\TP_MODS_03_103022300056.dll
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.pdb
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\TP_MODS_03_103022300056.genruntimeconfig.cache
+C:\Users\daffa\source\repos\TP_MODS_03_103022300056\TP_MODS_03_103022300056\obj\Debug\net8.0-windows\ref\TP_MODS_03_103022300056.dll
